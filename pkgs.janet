@@ -7,7 +7,6 @@
    'sqlite3 "https://github.com/janet-lang/sqlite3.git"
    'argparse "https://github.com/janet-lang/argparse.git"
    'juv "https://github.com/janet-lang/juv.git"
-   'janetui "https://github.com/janet-lang/janetui.git"
    'mendoza "https://github.com/bakpakin/mendoza.git"
    'tester "https://github.com/joy-framework/tester.git"
    'jurl "https://github.com/sepisoad/jurl.git"
