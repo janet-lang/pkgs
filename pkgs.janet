@@ -1,0 +1,15 @@
+# A curated list of packages
+(def packages
+  {'circlet "https://github.com/janet-lang/circlet.git"
+   'pkgs "https://github.com/janet-lang/pkgs.git"
+   'path "https://github.com/janet-lang/path.git"
+   'json "https://github.com/janet-lang/json.git"
+   'sqlite "https://github.com/janet-lang/sqlite3.git"
+   'argparse "https://github.com/janet-lang/argparse.git"
+   'juv "https://github.com/janet-lang/juv.git"
+   'janetui "https://github.com/janet-lang/janetui.git"
+   'mendoza "https://github.com/bakpakin/mendoza.git"
+   'tester "https://github.com/joy-framework/tester.git"
+   'jurl "https://github.com/sepisoad/jurl.git"
+   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
+
