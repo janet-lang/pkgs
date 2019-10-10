@@ -13,5 +13,6 @@
    'trolley "https://github.com/pepe/trolley.git"
    'jhydro "https://github.com/janet-lang/jhydro.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
+   'x43bot "https://github.com/bakpakin/x43bot.git"
    'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
 
