@@ -11,5 +11,7 @@
    'tester "https://github.com/joy-framework/tester.git"
    'jurl "https://github.com/sepisoad/jurl.git"
    'trolley "https://github.com/pepe/trolley.git"
+   'jhydro "https://github.com/janet-lang/jhydro.git"
+   'jaylib "https://github.com/janet-lang/jaylib.git"
    'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
 
