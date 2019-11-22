@@ -10,5 +10,7 @@
    'mendoza "https://github.com/bakpakin/mendoza.git"
    'tester "https://github.com/joy-framework/tester.git"
    'jurl "https://github.com/sepisoad/jurl.git"
-   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
+   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"
+   'joy "https://github.com/joy-framework/joy.git"
+   })
 
