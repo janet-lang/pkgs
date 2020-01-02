@@ -16,5 +16,9 @@
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'chidi "https://github.com/pepe/chidi.git"
-   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
+   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"
+   'process "https://github.com/andrewchambers/janet-process.git"
+   'sh "https://github.com/andrewchambers/janet-sh.git"
+   'redis "https://github.com/andrewchambers/janet-redis.git"
+   'pq "https://github.com/andrewchambers/janet-pq.git"})
 
