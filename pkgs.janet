@@ -22,5 +22,6 @@
    'redis "https://github.com/andrewchambers/janet-redis.git"
    'pq "https://github.com/andrewchambers/janet-pq.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
-   'base16 "https://github.com/andrewchambers/janet-base16.git"})
+   'base16 "https://github.com/andrewchambers/janet-base16.git"
+   'tahani "https://github.com/pepe/tahani.git"})
 
