@@ -20,8 +20,9 @@
    'process "https://github.com/andrewchambers/janet-process.git"
    'sh "https://github.com/andrewchambers/janet-sh.git"
    'redis "https://github.com/andrewchambers/janet-redis.git"
+   'repl-tools "https://github.com/crocket/janet-repl-tools.git"
    'pq "https://github.com/andrewchambers/janet-pq.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
-   'uri "https://github.com/andrewchambers/janet-uri.git"})
-
+   'uri "https://github.com/andrewchambers/janet-uri.git"
+   'tahani "https://github.com/pepe/tahani.git"})
