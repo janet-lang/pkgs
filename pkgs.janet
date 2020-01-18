@@ -24,5 +24,5 @@
    'pq "https://github.com/andrewchambers/janet-pq.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
+   'uri "https://github.com/andrewchambers/janet-uri.git"
    'tahani "https://github.com/pepe/tahani.git"})
-
