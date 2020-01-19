@@ -25,5 +25,5 @@
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
    'uri "https://github.com/andrewchambers/janet-uri.git"
-   'temple "https://git.sr.ht/~bakpakin/temple.git"
+   'temple "https://git.sr.ht/~bakpakin/temple"
    'tahani "https://github.com/pepe/tahani.git"})
