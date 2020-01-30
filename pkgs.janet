@@ -1,6 +1,7 @@
 # A curated list of packages
 (def packages
-  {'circlet "https://github.com/janet-lang/circlet.git"
+  {
+   'circlet "https://github.com/janet-lang/circlet.git"
    'pkgs "https://github.com/janet-lang/pkgs.git"
    'path "https://github.com/janet-lang/path.git"
    'json "https://github.com/janet-lang/json.git"
@@ -22,8 +23,10 @@
    'redis "https://github.com/andrewchambers/janet-redis.git"
    'repl-tools "https://github.com/crocket/janet-repl-tools.git"
    'pq "https://github.com/andrewchambers/janet-pq.git"
+   'utf8 "https://github.com/crocket/janet-utf8.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
    'uri "https://github.com/andrewchambers/janet-uri.git"
    'temple "https://git.sr.ht/~bakpakin/temple"
-   'tahani "https://github.com/pepe/tahani.git"})
+   'tahani "https://github.com/pepe/tahani.git"
+  })
