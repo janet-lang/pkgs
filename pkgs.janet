@@ -22,6 +22,7 @@
    'sh "https://github.com/andrewchambers/janet-sh.git"
    'redis "https://github.com/andrewchambers/janet-redis.git"
    'repl-tools "https://github.com/crocket/janet-repl-tools.git"
+   'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
    'pq "https://github.com/andrewchambers/janet-pq.git"
    'utf8 "https://github.com/crocket/janet-utf8.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
