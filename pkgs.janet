@@ -29,4 +29,5 @@
    'uri "https://github.com/andrewchambers/janet-uri.git"
    'temple "https://git.sr.ht/~bakpakin/temple"
    'tahani "https://github.com/pepe/tahani.git"
+   'jtbox "https://github.com/sepisoad/jtbox.git"
   })
