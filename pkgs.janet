@@ -1,6 +1,7 @@
 # A curated list of packages
 (def packages
-  {'circlet "https://github.com/janet-lang/circlet.git"
+  {
+   'circlet "https://github.com/janet-lang/circlet.git"
    'pkgs "https://github.com/janet-lang/pkgs.git"
    'path "https://github.com/janet-lang/path.git"
    'json "https://github.com/janet-lang/json.git"
@@ -17,4 +18,18 @@
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'chidi "https://github.com/pepe/chidi.git"
    'spork "https://github.com/janet-lang/spork.git"
-   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
+   'jurl@bakpakin "https://github.com/bakpakin/jurl.git"
+   'process "https://github.com/andrewchambers/janet-process.git"
+   'sh "https://github.com/andrewchambers/janet-sh.git"
+   'redis "https://github.com/andrewchambers/janet-redis.git"
+   'repl-tools "https://github.com/crocket/janet-repl-tools.git"
+   'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
+   'pq "https://github.com/andrewchambers/janet-pq.git"
+   'utf8 "https://github.com/crocket/janet-utf8.git"
+   'flock "https://github.com/andrewchambers/janet-flock.git"
+   'base16 "https://github.com/andrewchambers/janet-base16.git"
+   'uri "https://github.com/andrewchambers/janet-uri.git"
+   'temple "https://git.sr.ht/~bakpakin/temple"
+   'tahani "https://github.com/pepe/tahani.git"
+   'jtbox "https://github.com/sepisoad/jtbox.git"
+  })
