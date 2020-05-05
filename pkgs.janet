@@ -16,5 +16,5 @@
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'chidi "https://github.com/pepe/chidi.git"
+   'spork "https://github.com/janet-lang/spork.git"
    'jurl@bakpakin "https://github.com/bakpakin/jurl.git"})
-
