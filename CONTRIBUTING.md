@@ -28,7 +28,7 @@ Please read this document before making contributions.
 * `my.package.git`
 * `org.this.is.not.java.AbstractWidgetFactoryProducer`
 
-If you would like to add a package here, just open a pull request with the name and URL of the package and edit the packages.janet file.
+If you would like to add a package here, just open a pull request with the name and URL of the package and edit the pkgs.janet file.
 
 ## Broken Links
 
