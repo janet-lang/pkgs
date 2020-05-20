@@ -32,4 +32,5 @@
    'temple "https://git.sr.ht/~bakpakin/temple"
    'tahani "https://github.com/pepe/tahani.git"
    'jtbox "https://github.com/sepisoad/jtbox.git"
+   'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
   })
