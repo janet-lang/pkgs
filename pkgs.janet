@@ -26,4 +26,5 @@
    'base16 "https://github.com/andrewchambers/janet-base16.git"
    'uri "https://github.com/andrewchambers/janet-uri.git"
    'temple "https://git.sr.ht/~bakpakin/temple"
+   'bigint "https://github.com/andrewchambers/janet-big.git"
    'tahani "https://github.com/pepe/tahani.git"})
