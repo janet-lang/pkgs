@@ -11,11 +11,11 @@
    'tester "https://github.com/joy-framework/tester.git"
    'jurl "https://github.com/sepisoad/jurl.git"
    'joy "https://github.com/joy-framework/joy.git"
-   'trolley "https://github.com/pepe/trolley.git"
+   'trolley "https://github.com/good-place/trolley.git"
    'jhydro "https://github.com/janet-lang/jhydro.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
-   'chidi "https://github.com/pepe/chidi.git"
+   'chidi "https://github.com/good-place/chidi.git"
    'jurl@bakpakin "https://github.com/bakpakin/jurl.git"
    'process "https://github.com/andrewchambers/janet-process.git"
    'sh "https://github.com/andrewchambers/janet-sh.git"
@@ -23,5 +23,7 @@
    'pq "https://github.com/andrewchambers/janet-pq.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
-   'tahani "https://github.com/pepe/tahani.git"})
+   'tahani "https://github.com/good-place/tahani.git"
+   'mansion "https://github.com/good-place/mansion.git"
+   'shawn "https://github.com/good-place/shawn.git"})
 
