@@ -3,9 +3,8 @@
 The official package listing for Janet. It maps short package
 names to full git urls for use in scripts and Janet programs.
 
-If you have written a Janet library that you think others may
-find useful, please submit a pull-request here adding it to
-the package listing. Thanks!
+To have your own library added to the package listing, please see
+the CONTRIBUTING document. Thanks!
 
 
 ## Usage (from jpm)
