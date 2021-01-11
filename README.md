@@ -12,9 +12,9 @@ the CONTRIBUTING document. Thanks!
 For convenience, packages listed here may be installed using
 just their short name, for example:
 
-    [sudo] jpm install path
+    [sudo] jpm install spork
     # rather than
-    [sudo] jpm install https://github.com/janet-lang/path.git
+    [sudo] jpm install https://github.com/janet-lang/spork.git
 
 
 ## Usage (from Janet)
