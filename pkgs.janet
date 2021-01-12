@@ -27,6 +27,7 @@
    'redis "https://github.com/andrewchambers/janet-redis.git"
    'repl-tools "https://github.com/crocket/janet-repl-tools.git"
    'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
+   'set "https://github.com/MikeBeller/janet-set.git"
    'sh "https://github.com/andrewchambers/janet-sh.git"
    'spork "https://github.com/janet-lang/spork.git"
    'sqlite3 "https://github.com/janet-lang/sqlite3.git"
