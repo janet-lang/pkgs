@@ -57,7 +57,12 @@ package:
 
 ### Tier 1
 
-* README file preferably with basic usage examples, installation process, and caveats
+* README file preferably with following information:
+  * basic usage examples
+  * installation process
+    * native libraries code wraps
+    * special tools needed
+  * caveats
 * test suite to check if the package works as expected with the latest stable
   Janet release. Tests are also a great way to explore the package API.
 
