@@ -37,7 +37,7 @@ probability of merge correlates with completeness.
       * `my.package.git`
       * `org.this.is.not.java.AbstractWidgetFactoryProducer`
   *  `:author` name of the author of the package. Preferably with email contact
-  in the standard format: "Josef Pospíšil <josef.pospisil@laststar.eu>".
+  in the standard format: `"Josef Pospíšil <josef.pospisil@laststar.eu>"`.
   * `:description` short informative description of the package, preferably one
   sentence.
   * `:license` abbreviation of the License name, e.g., "MIT".
@@ -55,18 +55,18 @@ probability of merge correlates with completeness.
 These are not required (at least for now) but are nice to have for any quality
 package:
 
-Tier 1:
+### Tier 1
 
 * README file preferably with basic usage examples, installation process, and caveats
 * test suite to check if the package works as expected with the latest stable
   Janet release. Tests are also a great way to explore the package API.
 
-Tier 2:
+### Tier 2:
 
 * example files that are easy to follow and shows usage of the package code.
 * CONTRIBUTING file similar to this.
 
-Tier 3:
+### Tier 3:
 
 * TECH file with details about implementation and inner working of the package.
 
