@@ -1,36 +1,83 @@
-# Guidelines for contributing to the Janet Package Listing
+# Guidelines for contributing to the Janet package listing
 
-Thanks for taking time to contribute!
+Thanks for taking the time to contribute!
 
-Please read this document before making contributions.
+Please read this document before making contributions. If you find anything
+missing of not appropriate, please do not hesitate and create an issue in this
+repository.
 
-## Adding a Package
+## Adding a package
+
+If you would like to add a package here, open a pull request with the
+package's name and URL and edit the `pkgs.janet` file. Bonus points for simple
+descriptions or reasons why you are adding the package in the comment.
+
+Below are the key requirements for the package. The
+probability of merge correlates with completeness.
 
 * Check if the package exists before adding it twice.
-* The name of the package should usually be the same as that of its
-  git repository, and should be all lower case and in kebab-case.
-  For example, use `my-package` as a package name, not `mypackage` or `MyPackage`.
-* Make sure that your package can be used with `jpm`. This means it
-  should have a file `project.janet` in it's root directory, and should run properly when installed via `jpm install https://some.git-host.org/me/mypackage.git`. Do not add packages that do not work with jpm! If jpm cannot support your package, open an issue in the [Janet](https://github.com/janet-lang/janet) repository and we will see what we can do.
+* Make sure that users can use your package with `jpm`. It must have a file
+  `project.janet` in its root directory and properly run when installed via
+  `jpm install https://git-host.example.org/path/to/your/package.git`. Do not add
+  packages that do not work with jpm! If jpm cannot support your package,
+  open an issue in this repository, and we will see what we can do.
+* Please be sure that your `project.janet` file contains these required fields:
+  * `:name` with the desired name of the package. The package's name should
+  usually be the same as its git repository and should be in lower
+  kebab-case. One exception is the `janet-` prefix in the git repository name to
+  avoid name clashes.
+    * Good package names.
+      * `my-package`
+      * `thing`
+      * `thing@bakpakin` (for a fork of the package)
+    * Bad package names
+      * `mypackage`
+      * `my_package`
+      * `MyPackage`
+      * `my package`
+      * `my.package.git`
+      * `org.this.is.not.java.AbstractWidgetFactoryProducer`
+  *  `:author` name of the author of the package. Preferably with email contact
+  in the standard format: `"Josef Pospíšil <josef.pospisil@laststar.eu>"`.
+  * `:description` short informative description of the package, preferably one
+  sentence.
+  * `:license` abbreviation of the license name, e.g., "MIT".
+  * `:url` with further information about the package. It could be a repository
+  home page with `README.md` or any other website.
+  * `:repo` from which users could clone code.
+  * `:dependencies` field is optional but must be present if it depends on
+  other packages.
+* Add package license, preferably in a `LICENSE` file in the root of the
+  project.
 
-### Good package names
 
-* `my-package`
-* `thing`
-* `thing@bakpakin` (for a fork of the package)
+## Optional package properties
 
-### Bad package names
+These are not required (at least for now) but are nice to have for any quality
+package:
 
-* `mypackage`
-* `my_package`
-* `MyPackage`
-* `my package`
-* `my.package.git`
-* `org.this.is.not.java.AbstractWidgetFactoryProducer`
+### Tier 1
 
-If you would like to add a package here, just open a pull request with the name and URL of the package and edit the pkgs.janet file.
+* README file preferably with following information:
+  * basic usage examples
+  * installation process
+    * native libraries code wraps
+    * special tools needed
+  * caveats
+* test suite to check if the package works as expected with the latest stable
+  Janet release. Tests are also a great way to explore the package API.
 
-## Broken Links
+### Tier 2:
 
-Please open issues if you find broken links. Try also to find the correct link or at least
-the reason a link is broken. We can then update or remove offending packages.
+* example files that are easy to follow and shows usage of the package code.
+* `CONTRIBUTING` file similar to this.
+
+### Tier 3:
+
+* `TECH` file with details about implementation and inner workings of the package.
+
+
+## Broken links
+
+Please open issues if you find broken links. Try to find the correct link or at least
+the reason for a link breakage. We can then update or remove offending packages.
