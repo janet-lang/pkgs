@@ -18,7 +18,7 @@ probability of merge correlates with completeness.
 * Check if the package exists before adding it twice.
 * Make sure that users can use your package with `jpm`. It must have a file
   `project.janet` in its root directory and properly run when installed via
-  `jpm install https://some.git-host.org/me/mypackage.git`. Do not add
+  `jpm install https://git-host.example.org/path/to/your/package.git`. Do not add
   packages that do not work with jpm! If jpm cannot support your package,
   open an issue in this repository, and we will see what we can do.
 * Please be sure that your `project.janet` file contains these required fields:
