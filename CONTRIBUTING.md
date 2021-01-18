@@ -6,7 +6,7 @@ Please read this document before making contributions. If you find anything
 missing of not appropriate, please do not hesitate and create an issue in this
 repository.
 
-## Adding a Package
+## Adding a package
 
 If you would like to add a package here, open a pull request with the
 package's name and URL and edit the `pkgs.janet` file. Plus points for simple
