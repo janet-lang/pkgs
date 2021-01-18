@@ -69,7 +69,7 @@ package:
 ### Tier 2:
 
 * example files that are easy to follow and shows usage of the package code.
-* CONTRIBUTING file similar to this.
+* `CONTRIBUTING` file similar to this.
 
 ### Tier 3:
 
