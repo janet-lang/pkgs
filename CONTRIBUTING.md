@@ -9,7 +9,7 @@ repository.
 ## Adding a Package
 
 If you would like to add a package here, open a pull request with the
-package's name and URL and edit the pkgs.janet file. Plus points for simple
+package's name and URL and edit the `pkgs.janet` file. Plus points for simple
 descriptions or reasons why you are adding the package in the comment.
 
 These are essential requirements on the package. The
