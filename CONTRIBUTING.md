@@ -9,7 +9,7 @@ repository.
 ## Adding a package
 
 If you would like to add a package here, open a pull request with the
-package's name and URL and edit the `pkgs.janet` file. Plus points for simple
+package's name and URL and edit the `pkgs.janet` file. Bonus points for simple
 descriptions or reasons why you are adding the package in the comment.
 
 Below are the key requirements for the package. The
@@ -24,7 +24,8 @@ probability of merge correlates with completeness.
 * Please be sure that your `project.janet` file contains these required fields:
   * `:name` with the desired name of the package. The package's name should
   usually be the same as its git repository and should be in lower
-  kebab-case.
+  kebab-case. One exception is the `janet-` prefix in the git repository name to
+  avoid name clashes.
     * Good package names.
       * `my-package`
       * `thing`
