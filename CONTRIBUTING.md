@@ -46,7 +46,7 @@ probability of merge correlates with completeness.
   * `:repo` from which users could clone code.
   * `:dependencies` field is optional but must be present if it depends on
   other packages.
-* Add package License, preferably in the LICENSE file in the root of the
+* Add package license, preferably in a `LICENSE` file in the root of the
   project.
 
 
