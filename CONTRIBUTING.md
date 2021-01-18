@@ -12,7 +12,7 @@ If you would like to add a package here, open a pull request with the
 package's name and URL and edit the `pkgs.janet` file. Plus points for simple
 descriptions or reasons why you are adding the package in the comment.
 
-These are essential requirements on the package. The
+Below are the key requirements for the package. The
 probability of merge correlates with completeness.
 
 * Check if the package exists before adding it twice.
