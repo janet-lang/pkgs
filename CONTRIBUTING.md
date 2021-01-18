@@ -76,7 +76,7 @@ package:
 * `TECH` file with details about implementation and inner workings of the package.
 
 
-## Broken Links
+## Broken links
 
 Please open issues if you find broken links. Try to find the correct link or at least
 the reason for a link breakage. We can then update or remove offending packages.
