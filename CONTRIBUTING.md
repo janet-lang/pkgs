@@ -1,4 +1,4 @@
-# Guidelines for contributing to the Janet Package Listing
+# Guidelines for contributing to the Janet package listing
 
 Thanks for taking the time to contribute!
 
