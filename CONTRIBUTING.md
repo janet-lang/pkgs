@@ -73,7 +73,7 @@ package:
 
 ### Tier 3:
 
-* TECH file with details about implementation and inner working of the package.
+* `TECH` file with details about implementation and inner workings of the package.
 
 
 ## Broken Links
