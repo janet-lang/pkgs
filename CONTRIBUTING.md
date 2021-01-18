@@ -40,7 +40,7 @@ probability of merge correlates with completeness.
   in the standard format: `"Josef Pospíšil <josef.pospisil@laststar.eu>"`.
   * `:description` short informative description of the package, preferably one
   sentence.
-  * `:license` abbreviation of the License name, e.g., "MIT".
+  * `:license` abbreviation of the license name, e.g., "MIT".
   * `:url` with further information about the package. It could be a repository
   home page with `README.md` or any other website.
   * `:repo` from which users could clone code.
