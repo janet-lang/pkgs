@@ -23,8 +23,8 @@ probability of merge correlates with completeness.
   open an issue in this repository, and we will see what we can do.
 * Please be sure that your `project.janet` file contains these required fields:
   * `:name` with the desired name of the package. The package's name should
-  usually be the same as its git repository and should be all lower case
-  and in kebab-case.
+  usually be the same as its git repository and should be in lower
+  kebab-case.
     * Good package names.
       * `my-package`
       * `thing`
