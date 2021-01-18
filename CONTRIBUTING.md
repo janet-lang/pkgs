@@ -50,7 +50,7 @@ probability of merge correlates with completeness.
   project.
 
 
-## Optional Package properties
+## Optional package properties
 
 These are not required (at least for now) but are nice to have for any quality
 package:
