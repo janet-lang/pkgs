@@ -37,4 +37,5 @@
    'trolley "https://github.com/pepe/trolley.git"
    'uri "https://github.com/andrewchambers/janet-uri.git"
    'utf8 "https://github.com/crocket/janet-utf8.git"
-   'x43bot "https://github.com/bakpakin/x43bot.git"})
+   'x43bot "https://github.com/bakpakin/x43bot.git"
+   'stringx "https://github.com/yumaikas/janet-stringx.git"})
