@@ -33,6 +33,7 @@
    'sqlite3 "https://github.com/janet-lang/sqlite3.git"
    'tahani "https://github.com/pepe/tahani.git"
    'temple "https://git.sr.ht/~bakpakin/temple"
+   'testament "https://github.com/pyrmont/testament.git"
    'tester "https://github.com/joy-framework/tester.git"
    'trolley "https://github.com/pepe/trolley.git"
    'uri "https://github.com/andrewchambers/janet-uri.git"
