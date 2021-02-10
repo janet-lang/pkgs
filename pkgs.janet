@@ -6,6 +6,7 @@
    'chidi "https://github.com/pepe/chidi.git"
    'circlet "https://github.com/janet-lang/circlet.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
+   'fugue "https://git.sr.ht/~subsetpark/fugue"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
