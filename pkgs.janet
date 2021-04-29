@@ -33,6 +33,7 @@
    'spork "https://github.com/janet-lang/spork.git"
    'sqlite3 "https://github.com/janet-lang/sqlite3.git"
    'tahani "https://github.com/pepe/tahani.git"
+   'tarray "https://github.com/janet-lang/tarray.git"
    'temple "https://git.sr.ht/~bakpakin/temple"
    'testament "https://github.com/pyrmont/testament.git"
    'tester "https://github.com/joy-framework/tester.git"
