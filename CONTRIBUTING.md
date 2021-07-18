@@ -20,22 +20,12 @@ Your pull request is more likely to be merged if your package meets these requir
   `jpm install https://git-host.example.org/path/to/your/package.git`. Only add
   a package that works with `jpm`! If `jpm` cannot support your package,
   open an issue in this repository, and we will see what we can do.
-* Please be sure that your `project.janet` file contains these required fields:
+* Your `project.janet` file should have fields:
   * `:name`, the desired name of the package. The package's name should
-    usually be the same as its git repository name, and should be in lower
-    kebab-case. One exception is the `janet-` prefix in the git repository name to
-    avoid name clashes.
-    * Good package names:
-      * `my-package`
-      * `thing`
-      * `thing@bakpakin` (for a fork of the package)
-    * Bad package names:
-      * `mypackage`
-      * `my_package`
-      * `MyPackage`
-      * `my package`
-      * `my.package.git`
-      * `org.this.is.not.java.AbstractWidgetFactoryProducer`
+    usually be the same as its git repository name. 
+    Common exceptions include having a `janet-` prefix in the git repo name, but not in the package name.
+    One exception is the `janet-` prefix in the git repository name to
+    avoid name clashes. The name should also avoid clashing with existing names in pkgs.
   * `:author`, name of the author of the package. Preferably with email contact
     in the standard format: `"Josef Pospíšil <josef.pospisil@laststar.eu>"`.
   * `:description`, short informative description of the package, preferably one
@@ -44,8 +34,8 @@ Your pull request is more likely to be merged if your package meets these requir
   * `:url`, further information about the package. It could be a link to the
     project's repository, home page with `README.md`, or any other website.
   * `:repo`, from which users could clone its source code.
-  * `:dependencies`, an optional field, but must be present if it depends on
-    other packages.
+  * `:dependencies`, if this package depends on other packages. 
+     Ideally, all of the dependencies will already exist in the pkgs list.
 * Add package license, preferably in a `LICENSE` file in the root of the
   project.
 
