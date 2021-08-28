@@ -12,6 +12,7 @@
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
    'jhydro "https://github.com/janet-lang/jhydro.git"
    'joy "https://github.com/joy-framework/joy.git"
+   'jpm "https://github.com/janet-lang/jpm.git"
    'json "https://github.com/janet-lang/json.git"
    'jtbox "https://github.com/sepisoad/jtbox.git"
    'jurl "https://github.com/sepisoad/jurl.git"
