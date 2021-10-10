@@ -14,6 +14,7 @@
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
+   'jermbox "https://github.com/MorganPeterson/jermbox.git"
    'jhydro "https://github.com/janet-lang/jhydro.git"
    'joy "https://github.com/joy-framework/joy.git"
    'jpm "https://github.com/janet-lang/jpm.git"
