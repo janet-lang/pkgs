@@ -16,6 +16,7 @@
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
    'jermbox "https://github.com/MorganPeterson/jermbox.git"
    'jhydro "https://github.com/janet-lang/jhydro.git"
+   'jlzf "https://github.com/MorganPeterson/jlzf.git"
    'joy "https://github.com/joy-framework/joy.git"
    'jpm "https://github.com/janet-lang/jpm.git"
    'json "https://github.com/janet-lang/json.git"
