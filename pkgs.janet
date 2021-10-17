@@ -10,6 +10,7 @@
    'circlet "https://github.com/janet-lang/circlet.git"
    'eleanor "https://git.sr.ht/~pepe/eleanor"
    'flock "https://github.com/andrewchambers/janet-flock.git"
+   'freja "https://github.com/saikyun/freja.git"
    'fugue "https://git.sr.ht/~subsetpark/fugue"
    'hemple "https://git.sr.ht/~pepe/hemple"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
