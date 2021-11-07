@@ -12,6 +12,7 @@
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'freja "https://github.com/saikyun/freja.git"
    'fugue "https://git.sr.ht/~subsetpark/fugue"
+   'gapbuffer "https://github.com/MorganPeterson/gapbuffer.git"
    'hemple "https://git.sr.ht/~pepe/hemple"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
