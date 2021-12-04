@@ -9,6 +9,7 @@
    'chidi "https://git.sr.ht/~pepe/chidi"
    'circlet "https://github.com/janet-lang/circlet.git"
    'eleanor "https://git.sr.ht/~pepe/eleanor"
+   'filesystem "https://github.com/jeannekamikaze/janet-filesystem.git"
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'freja "https://github.com/saikyun/freja.git"
    'fugue "https://git.sr.ht/~subsetpark/fugue"
