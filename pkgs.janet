@@ -31,6 +31,7 @@
    'juv "https://github.com/janet-lang/juv.git"
    'kamilah "https://git.sr.ht/~pepe/kamilah"
    'manisha "https://git.sr.ht/~pepe/manisha"
+   'marble "https://git.sr.ht/~pepe/marble"
    'mendoza "https://github.com/bakpakin/mendoza.git"
    'michael "https://git.sr.ht/~pepe/michael"
    'miniz "https://github.com/bakpakin/janet-miniz.git"
