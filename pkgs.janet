@@ -15,6 +15,7 @@
    'fugue "https://git.sr.ht/~subsetpark/fugue"
    'gapbuffer "https://github.com/MorganPeterson/gapbuffer.git"
    'hemple "https://git.sr.ht/~pepe/hemple"
+   'janet-html "https://github.com/eko234/janet-html"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
