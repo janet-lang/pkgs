@@ -35,6 +35,7 @@
    'mendoza "https://github.com/bakpakin/mendoza.git"
    'michael "https://git.sr.ht/~pepe/michael"
    'miniz "https://github.com/bakpakin/janet-miniz.git"
+   'msgpack "https://github.com/Techcable/janet-msgpack.git"
    'nanoid "https://git.sr.ht/~statianzo/janet-nanoid"
    'path "https://github.com/janet-lang/path.git"
    'pkgs "https://github.com/janet-lang/pkgs.git"
