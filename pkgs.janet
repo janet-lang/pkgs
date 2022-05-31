@@ -16,6 +16,7 @@
    'gapbuffer "https://github.com/MorganPeterson/gapbuffer.git"
    'hemple "https://git.sr.ht/~pepe/hemple"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
+   'janet-html "https://github.com/swlkr/janet-html.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
    'jermbox "https://github.com/MorganPeterson/jermbox.git"
