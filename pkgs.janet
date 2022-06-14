@@ -40,6 +40,7 @@
    'path "https://github.com/janet-lang/path.git"
    'pkgs "https://github.com/janet-lang/pkgs.git"
    'pq "https://github.com/andrewchambers/janet-pq.git"
+   'primesieve "https://github.com/bunder/janet-primesieve.git"
    'process "https://github.com/andrewchambers/janet-process.git"
    'redis "https://github.com/andrewchambers/janet-redis.git"
    'repl-tools "https://github.com/crocket/janet-repl-tools.git"
