@@ -15,6 +15,7 @@
    'fugue "https://git.sr.ht/~subsetpark/fugue"
    'gapbuffer "https://github.com/MorganPeterson/gapbuffer.git"
    'glfw "https://gitlab.com/jeannekamikaze/janet-glfw.git"
+   'glyph "https://tasadar.net/tionis/glyph.git"
    'hemple "https://git.sr.ht/~pepe/hemple"
    'html "https://github.com/swlkr/janet-html.git"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
