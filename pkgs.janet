@@ -50,6 +50,7 @@
    'set "https://github.com/MikeBeller/janet-set.git"
    'sh "https://github.com/andrewchambers/janet-sh.git"
    'shawn "https://git.sr.ht/~pepe/shawn"
+   'shriek "https://git.sr.ht/~pepe/shriek"
    'spork "https://github.com/janet-lang/spork.git"
    'sqlite3 "https://github.com/janet-lang/sqlite3.git"
    'tarray "https://github.com/janet-lang/tarray.git"
