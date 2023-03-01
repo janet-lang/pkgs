@@ -45,7 +45,7 @@
    'primesieve "https://github.com/bunder/janet-primesieve.git"
    'process "https://github.com/andrewchambers/janet-process.git"
    'redis "https://github.com/andrewchambers/janet-redis.git"
-   'repl-tools "https://github.com/crocket/janet-repl-tools.git"
+   'repl-tools "https://codeberg.org/amano.kenji/janet-repl-tools.git"
    'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
    'set "https://github.com/MikeBeller/janet-set.git"
    'sh "https://github.com/andrewchambers/janet-sh.git"
@@ -60,6 +60,6 @@
    'trevor "https://git.sr.ht/~pepe/trevor"
    'trolley "https://git.sr.ht/~pepe/trolley"
    'uri "https://github.com/andrewchambers/janet-uri.git"
-   'utf8 "https://github.com/crocket/janet-utf8.git"
+   'utf8 "https://codeberg.org/amano.kenji/janet-utf8.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'stringx "https://github.com/yumaikas/janet-stringx.git"})
