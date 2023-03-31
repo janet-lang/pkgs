@@ -30,7 +30,7 @@
    'json "https://github.com/janet-lang/json.git"
    'jtbox "https://github.com/sepisoad/jtbox.git"
    'judge "https://github.com/ianthehenry/judge.git"
-   'jurl "https://github.com/sepisoad/jurl.git"
+   'jurl "https://github.com/cosmictoast/jurl.git"
    'juv "https://github.com/janet-lang/juv.git"
    'kamilah "https://git.sr.ht/~pepe/kamilah"
    'manisha "https://git.sr.ht/~pepe/manisha"
