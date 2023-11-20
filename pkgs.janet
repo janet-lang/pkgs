@@ -41,6 +41,7 @@
    'miniz "https://github.com/bakpakin/janet-miniz.git"
    'msgpack "https://github.com/Techcable/janet-msgpack.git"
    'nanoid "https://git.sr.ht/~statianzo/janet-nanoid"
+   'openssl-hash "https://github.com/wooosh/janet-openssl-hash"
    'path "https://github.com/janet-lang/path.git"
    'pkgs "https://github.com/janet-lang/pkgs.git"
    'pq "https://github.com/andrewchambers/janet-pq.git"
