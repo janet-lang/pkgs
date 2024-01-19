@@ -21,6 +21,7 @@
    'hemple "https://git.sr.ht/~pepe/hemple"
    'html "https://github.com/swlkr/janet-html.git"
    'hypertext "https://gitlab.com/louis.jackman/janet-hypertext.git"
+   'j3blocks "https://codeberg.org/amano.kenji/j3blocks.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
    'jermbox "https://github.com/MorganPeterson/jermbox.git"
