@@ -21,6 +21,7 @@
    'hemple "https://git.sr.ht/~pepe/hemple"
    'html "https://github.com/swlkr/janet-html.git"
    'j3blocks "https://codeberg.org/amano.kenji/j3blocks.git"
+   'j3blocks-extra "https://codeberg.org/amano.kenji/j3blocks-extra.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
    'jermbox "https://git.sr.ht/~nullevoid/jermbox"
@@ -62,6 +63,7 @@
    'trevor "https://git.sr.ht/~pepe/trevor"
    'trolley "https://git.sr.ht/~pepe/trolley"
    'uri "https://github.com/andrewchambers/janet-uri.git"
+   'usbguard "https://codeberg.org/amano.kenji/janet-usbguard.git"
    'utf8 "https://codeberg.org/amano.kenji/janet-utf8.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'stringx "https://github.com/yumaikas/janet-stringx.git"})
