@@ -3,6 +3,7 @@
   {'argparse "https://github.com/janet-lang/argparse.git"
    'args "https://github.com/MorganPeterson/args.git"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
+   'base64 "https://github.com/Jakski/janet-base64.git"
    'bigint "https://github.com/andrewchambers/janet-big.git"
    'bearimy "https://git.sr.ht/~pepe/bearimy"
    'bonzer "https://git.sr.ht/~pepe/bonzer"
