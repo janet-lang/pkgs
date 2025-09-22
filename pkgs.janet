@@ -18,7 +18,6 @@
    'fugue "https://git.sr.ht/~subsetpark/fugue"
    'gapbuffer "https://git.sr.ht/~nullevoid/gapbuffer"
    'glfw "https://gitlab.com/jeannekamikaze/janet-glfw.git"
-   'glyph "https://github.com/tionis/glyph.janet.git"
    'hemple "https://git.sr.ht/~pepe/hemple"
    'html "https://github.com/swlkr/janet-html.git"
    'j3blocks "https://codeberg.org/amano.kenji/j3blocks.git"
