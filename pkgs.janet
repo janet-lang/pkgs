@@ -10,6 +10,7 @@
    'chidi "https://git.sr.ht/~pepe/chidi"
    'circlet "https://github.com/janet-lang/circlet.git"
    'cmd "https://github.com/ianthehenry/cmd.git"
+   'csv "https://git.sr.ht/~artemis/j-csv"
    'date "https://github.com/cosmictoast/janet-date.git"
    'eleanor "https://git.sr.ht/~pepe/eleanor"
    'filesystem "https://github.com/jeannekamikaze/janet-filesystem.git"
