@@ -62,6 +62,7 @@
    'tester "https://github.com/joy-framework/tester.git"
    'trevor "https://git.sr.ht/~pepe/trevor"
    'trolley "https://git.sr.ht/~pepe/trolley"
+   'tsort "https://github.com/Jakski/janet-tsort"
    'uri "https://github.com/andrewchambers/janet-uri.git"
    'utf8 "https://codeberg.org/amano.kenji/janet-utf8.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
