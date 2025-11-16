@@ -1,7 +1,6 @@
 # A curated list of packages
 (def packages
   {'argparse "https://github.com/janet-lang/argparse.git"
-   'args "https://git.sr.ht/~nullevoid/args"
    'base16 "https://github.com/andrewchambers/janet-base16.git"
    'base64 "https://github.com/Jakski/janet-base64.git"
    'bigint "https://github.com/andrewchambers/janet-big.git"
@@ -17,7 +16,6 @@
    'flock "https://github.com/andrewchambers/janet-flock.git"
    'freja "https://github.com/saikyun/freja.git"
    'fugue "https://git.sr.ht/~subsetpark/fugue"
-   'gapbuffer "https://git.sr.ht/~nullevoid/gapbuffer"
    'glfw "https://gitlab.com/jeannekamikaze/janet-glfw.git"
    'hemple "https://git.sr.ht/~pepe/hemple"
    'html "https://github.com/swlkr/janet-html.git"
