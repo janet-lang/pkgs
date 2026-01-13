@@ -51,7 +51,7 @@
    'repl-tools "https://codeberg.org/amano.kenji/janet-repl-tools.git"
    'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
    'set "https://github.com/MikeBeller/janet-set.git"
-   'sh "https://github.com/andrewchambers/janet-sh.git"
+   'sh "https://codeberg.org/veqq/janet-sh.git"
    'shawn "https://git.sr.ht/~pepe/shawn"
    'shriek "https://git.sr.ht/~pepe/shriek"
    'spork "https://github.com/janet-lang/spork.git"
