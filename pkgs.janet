@@ -47,6 +47,7 @@
    'pq "https://github.com/andrewchambers/janet-pq.git"
    'primesieve "https://github.com/bunder/janet-primesieve.git"
    'process "https://github.com/andrewchambers/janet-process.git"
+   'raft "https://git.sr.ht/~artemis/raft"
    'redis "https://github.com/andrewchambers/janet-redis.git"
    'repl-tools "https://codeberg.org/amano.kenji/janet-repl-tools.git"
    'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
