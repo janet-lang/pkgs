@@ -34,6 +34,7 @@
    'jurl "https://github.com/cosmictoast/jurl.git"
    'juv "https://github.com/janet-lang/juv.git"
    'kamilah "https://git.sr.ht/~pepe/kamilah"
+   'kanja "https://github.com/arkh-node/janet-kanja.git"
    'manisha "https://git.sr.ht/~pepe/manisha"
    'marble "https://git.sr.ht/~pepe/marble"
    'mendoza "https://github.com/bakpakin/mendoza.git"
