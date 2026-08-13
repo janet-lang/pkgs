@@ -7,6 +7,7 @@
    'bigint "https://github.com/andrewchambers/janet-big.git"
    'bearimy "https://git.sr.ht/~pepe/bearimy"
    'bonzer "https://git.sr.ht/~pepe/bonzer"
+   'capnp "https://github.com/HaoZeke/capnp-janet.git"
    'chidi "https://git.sr.ht/~pepe/chidi"
    'circlet "https://github.com/janet-lang/circlet.git"
    'cmd "https://github.com/ianthehenry/cmd.git"
