@@ -58,6 +58,7 @@
    'repl-tools "https://codeberg.org/amano.kenji/janet-repl-tools.git"
    'rlrepl "https://github.com/andrewchambers/janet-rlrepl.git"
    'set "https://github.com/MikeBeller/janet-set.git"
+   'jennystats/rayforce "https://github.com/jennystats/janet-rayforce.git"
    'sh "https://github.com/andrewchambers/janet-sh.git"
    'shawn "https://git.sr.ht/~pepe/shawn"
    'shriek "https://git.sr.ht/~pepe/shriek"
