@@ -29,7 +29,6 @@
    'jennystats/json "https://github.com/jennystats/janet-json.git"
    'jennystats/kit "https://github.com/jennystats/janet-kit.git"
    'jennystats/num "https://github.com/jennystats/janet-num.git"
-   'jennystats/rayforce "https://github.com/jennystats/janet-rayforce.git"
    'jennystats/stats "https://github.com/jennystats/janet-stats.git"
    'jennystats/xgboost "https://github.com/jennystats/janet-xgboost.git"
    'jermbox "https://git.sr.ht/~nullevoid/jermbox"
@@ -77,5 +76,3 @@
    'utf8 "https://codeberg.org/amano.kenji/janet-utf8.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'stringx "https://github.com/yumaikas/janet-stringx.git"})
-
-
