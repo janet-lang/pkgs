@@ -25,7 +25,6 @@
    'j3blocks "https://codeberg.org/amano.kenji/j3blocks.git"
    'jaylib "https://github.com/janet-lang/jaylib.git"
    'jdn-loader "https://github.com/levitanong/jdn-loader.git"
-   'jermbox "https://git.sr.ht/~nullevoid/jermbox"
    'jennystats/duckdb "https://github.com/jennystats/janet-duckdb.git"
    'jennystats/json "https://github.com/jennystats/janet-json.git"
    'jennystats/kit "https://github.com/jennystats/janet-kit.git"
@@ -33,6 +32,7 @@
    'jennystats/rayforce "https://github.com/jennystats/janet-rayforce.git"
    'jennystats/stats "https://github.com/jennystats/janet-stats.git"
    'jennystats/xgboost "https://github.com/jennystats/janet-xgboost.git"
+   'jermbox "https://git.sr.ht/~nullevoid/jermbox"
    'jhydro "https://github.com/janet-lang/jhydro.git"
    'jlzf "https://git.sr.ht/~nullevoid/jlzf"
    'joy "https://github.com/joy-framework/joy.git"
@@ -77,4 +77,5 @@
    'utf8 "https://codeberg.org/amano.kenji/janet-utf8.git"
    'x43bot "https://github.com/bakpakin/x43bot.git"
    'stringx "https://github.com/yumaikas/janet-stringx.git"})
+
 
